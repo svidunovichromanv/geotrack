@@ -2,21 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9741f791-970f-40df-9803-d2ea87db86e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons8-сообщение-64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/qr-code-url.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ucop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/318581.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/icons8-сообщение-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/qr-code-url.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/searchicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/ucop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/x2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/Моё фото — копия.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/icons8-facebook (1).svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/icons8-instagram-старый.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/icons8-vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/img/icons8-твиттер.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/release/views/form.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/src/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/src/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spa-template-master/www/src/views/form.ejs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/318581.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icons8-facebook (1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icons8-instagram-старый.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icons8-vimeo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icons8-сообщение-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icons8-твиттер.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/qr-code-url.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/searchicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ucop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/x2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Моё фото — копия.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.css" afterPath="$PROJECT_DIR$/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/318581.png" afterPath="$PROJECT_DIR$/img/318581.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons8-facebook (1).svg" afterPath="$PROJECT_DIR$/img/icons8-facebook (1).svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons8-instagram-старый.svg" afterPath="$PROJECT_DIR$/img/icons8-instagram-старый.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons8-vimeo.svg" afterPath="$PROJECT_DIR$/img/icons8-vimeo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons8-твиттер.svg" afterPath="$PROJECT_DIR$/img/icons8-твиттер.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/searchicon.png" afterPath="$PROJECT_DIR$/img/searchicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/x2.jpg" afterPath="$PROJECT_DIR$/img/x2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Моё фото — копия.png" afterPath="$PROJECT_DIR$/img/Моё фото — копия.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,84 +57,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6255144">
-      <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.6733828">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/main.css">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="261">
-                      <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-                      <folding>
-                        <element signature="e#3320#3386#0" expanded="false" />
-                        <element signature="e#3398#3445#0" expanded="false" />
-                        <element signature="e#3448#3555#0" expanded="false" />
-                        <element signature="e#3564#3616#0" expanded="false" />
-                        <element signature="e#3624#3872#0" expanded="false" />
-                        <element signature="e#3884#3956#0" expanded="false" />
-                        <element signature="e#3957#5653#0" expanded="false" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/index.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="352">
-                      <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/index.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-660">
-                      <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-                      <folding>
-                        <marker date="1537731866765" expanded="true" signature="3580:4477" ph="..." />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/index.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="8">
-                      <caret line="94" column="39" lean-forward="false" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
-                      <folding>
-                        <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                        <element signature="n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="x2.jpg" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/img/x2.jpg">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,7 +160,7 @@
             <path>
               <item name="geotrack-akveo" type="b2602c69:ProjectViewProjectNode" />
               <item name="geotrack-akveo" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="spa-template-master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537439429916</updated>
-      <workItem from="1537439431714" duration="88682000" />
+      <workItem from="1537439431714" duration="89526000" />
     </task>
     <task id="LOCAL-00001" summary="end of saturday">
       <created>1537647863463</created>
@@ -301,17 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1537693571340</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ready">
+      <created>1537733656718</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537733656718</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88682000" />
+    <option name="totallyTimeSpent" value="89526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1140625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1140625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.50208336" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
@@ -349,7 +306,8 @@
     <MESSAGE value="end of saturday" />
     <MESSAGE value="nav bag found" />
     <MESSAGE value="header ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="header ready" />
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,11 +344,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <marker date="1537731866765" expanded="true" signature="3580:4477" ph="..." />
-          </folding>
+        <state relative-caret-position="8">
+          <caret line="94" column="39" lean-forward="false" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -401,17 +357,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="e#3320#3386#0" expanded="false" />
-            <element signature="e#3398#3445#0" expanded="false" />
-            <element signature="e#3448#3555#0" expanded="false" />
-            <element signature="e#3564#3616#0" expanded="false" />
-            <element signature="e#3624#3872#0" expanded="false" />
-            <element signature="e#3884#3956#0" expanded="false" />
-            <element signature="e#3957#5653#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="4708">
+          <caret line="240" column="46" lean-forward="true" selection-start-line="240" selection-start-column="46" selection-end-line="240" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>

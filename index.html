@@ -9,7 +9,7 @@
 <header class="box">
         <input type="checkbox" id="check-menu">
         <div class="icon-box">
-            <img alt="Icon of Geotrack" src="318581.png">
+            <img alt="Our icon" src="img/318581.png">
         </div>
         <label for="check-menu">GEOTRACK</label>
         <div class="burger-line first"></div>
@@ -17,33 +17,104 @@
         <div class="burger-line third"></div>
         <div class="burger-line fourth"></div>
         <nav class="main-menu">
-            <a href="#">GEOMAP</a>
-            <a href="#">HOME</a>
-            <a href="#">ABOUT</a>
-            <a href="#">FEATURES</a>
-            <a href="#">PRICING</a>
+            <a title="GEOMAP" href="#">GEOMAP</a>
+            <a title="HOME" href="#">HOME</a>
+            <a title="ABOUT" href="#">ABOUT</a>
+            <a title="FEATURES" href="#">FEATURES</a>
+            <a title="PRICING" href="#">PRICING</a>
         </nav>
         <input class="search" placeholder="&#61447; Search geotrack">
         <div class="user-photo-box">
-            <img class="user-photo" alt="Icon of Geotrack" src="Моё%20фото%20—%20копия.png">
+            <img class="user-photo" alt="Your photo" src="img/Моё%20фото%20—%20копия.png">
         </div>
 </header>
 <main>
-    <div class="geo-info box"> California University</div>
+    <article class="geo-info box">
+        <div class="line">
+            <div class="imgs-geo-info">
+                <div class="icon-of-geo-box">
+                    <img alt="Icon of location" src="img/ucop.png">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="QR Code" src="img/qr-code-url.png">
+                </div>
+            </div>
+            <button class="btn_next">
+                <div class="arrow firstar"></div>
+                <div class="arrow secondar"></div>
+            </button>
+        </div>
+        <h2 class="geo_name">California University</h2>
+        <span class="geo_id">ID: 1238923748903478914751089</span>
+        <button class="btn_copy">Copy in buffer</button>
+
+        <div class="hr_line"></div>
+
+        <ul class="txt_list">
+            <li class="txt_info const">Geo Type:</li>
+            <li class="txt_info let">Goverment</li>
+            <li class="txt_info const">Short Geo:</li>
+            <li class="txt_info let">CA_University</li>
+            <li class="txt_info const">Adress:</li>
+            <li class="txt_info let">United States, California LA, Sargza Avenue 234, 44A</li>
+            <li class="txt_info const">Email:</li>
+            <li class="txt_info let">ca@univesity@gmail.com</li>
+            <li class="txt_info const">Expiere</li>
+            <li class="txt_info let">31 Oct 2016</li>
+            <li class="txt_info const">Privacy</li>
+            <li class="txt_info let">Enable</li>
+        </ul>
+
+        <div class="hr_line"></div>
+
+        <button class="btn_edit">Edit Profile</button>
+    </article>
     <div class="right-column">
-        <div class="message box">Geotrack</div>
+        <blockquote class="messages box">
+            <div class="message-box">
+                <img alt="Message" src="img/icons8-сообщение-64.png">
+            </div>
+            <div class="message-txt">
+                <h3 class="message-header">Geo Message</h3>
+                <p class="message-txt-content">The results of yesterday's election came as a surprise to most of us, regardless
+                of our political views. It will take for us tu process and understand the meanning
+                of the vote</p>
+            </div>
+
+        </blockquote>
         <div class="box" id="map"></div>
     </div>
 </main>
-<footer class="box">Geotrack
-    <!--<nav>
-    <ul>
-        <li><a title="faceboock" href="#"><img src="icons8-facebook%20(1).svg"></a></li>
-        <li><a title="twitter" href="#"><img src="icons8-твиттер.svg"></a></li>
-        <li><a title="instagram" href="#"><img src="icons8-instagram-старый.svg"></a></li>
-        <li><a title="vimeo" href="#"><img src="icons8-vimeo.svg"></a></li>
+<footer class="box footer">
+    <div class="site_info">
+        <span class="site_header">GEOTRACK</span>
+        <span class="copyright">&#169; Geotrack inc. All rigth reserbed 2016</span>
+    </div>
+    <ul class="contact-link">
+        <li><a title="APP API" href="#">APP API</a></li>
+        <li><a title="SUPPORT" href="#">SUPPORT</a></li>
+        <li><a title="faceboock" href="#">
+            <div class="facebook-box">
+                <img alt="facebook" src="img/icons8-facebook%20(1).svg">
+            </div>
+        </a></li>
+        <li><a title="twitter" href="#">
+            <div class="twitter-box">
+                <img alt="twitter" src="img/icons8-твиттер.svg">
+            </div>
+        </a></li>
+        <li><a title="instagram" href="#">
+            <div class="instagram-box">
+                <img alt="instagram" src="img/icons8-instagram-старый.svg">
+            </div>
+        </a></li>
+        <li><a title="vimeo" href="#">
+            <div class="vimeo-box">
+                <img alt="vimeo" src="img/icons8-vimeo.svg">
+            </div>
+        </a></li>
     </ul>
-    </nav>-->
+
 </footer>
 <script type="text/javascript" src="index.js"></script></body>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjSlVjlxEQWyVVK9uBhAE2hnB0oHGLkE8&callback=initMap" async defer></script>

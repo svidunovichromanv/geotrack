@@ -15,6 +15,8 @@
     flex-grow: 1;
 }
 body {
+    background-color: #FAFBFF;
+    line-height: 1.2;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -54,12 +56,6 @@ main .box{
         box-shadow: none;
     }
 }
-/*design*/
-body{
-    background-color: #FAFBFF;
-    line-height: 1.2;
-}
-
 .box{
     padding: 1em;
     background-color: white;
@@ -67,9 +63,9 @@ body{
 }
 
 
-/*navbar*/
+/*header*/
 
-/*#check-menu {
+#check-menu {
     display: none;
 }
 header.box {
@@ -79,38 +75,60 @@ header.box {
     padding: .8em;
     position: relative;
     height: 60px;
+    justify-content:space-between;
 }
 label {
     display: block;
     color: #596889;
+    margin-left: .5em;
 }
 .main-menu {
-    display: block;
-    height: 100%;
-    margin-left: 5em;
+    display: flex;
+    align-items: center;
 }
 a {
-    padding: 10px;
+    display: block;
+    padding: 1em;
     height: 100%;
     color: #4E5C7F;
     text-decoration: none;
+
 }
 a:hover {
      background-color: rgba(240, 240, 240, .9);
- }*/
+ }
+.search{
+    background: url(searchicon.png) no-repeat 5px;
+    background-color: rgba(240, 240, 240, .9);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    font-size: .8em;
+    padding-left: .8em;
+ }
+input:focus{
+    background: none;
+    background-color: rgba(240, 240, 240, .9);
+}
 @media screen and (max-width: 980px) {
-    header.box {
-        margin: 0;
-        padding: .25em;
-        width: 100vw;
-        position: relative;
-        text-align: center;
-        height: 40px;
+    .user-photo-box{
+        display: none;
     }
+    .search{
+        display: none;
+    }
+    header.box {
+    padding: .25em;
+    width: 100vw;
+    text-align: center;
+    height: 40px;
+}
 
     label {
-        display: block;
         position: absolute;
+        margin: 0;
         top: 0;
         left: 0;
         width: 100%;
@@ -118,7 +136,6 @@ a:hover {
         cursor: pointer;
         z-index: 2;
         line-height: 40px;
-        color: #596889;
     }
 
     .burger-line {
@@ -127,7 +144,7 @@ a:hover {
         right: 10px;
         width: 35px;
         height: 2px;
-        background-color: #000;
+        background-color: #4E5C7F;
         transition: .5s all;
     }
 
@@ -143,6 +160,8 @@ a:hover {
         display: block;
         position: absolute;
         width: 100%;
+        height: auto;
+        margin-left: 0;
         bottom: 0;
         left: 0;
         transform: translateY(100%);
@@ -156,14 +175,8 @@ a:hover {
         display: block;
         width: 100%;
         padding: 10px;
-        color: #4E5C7F;
-        text-decoration: none;
         border-top: 1px solid rgba(255, 255, 255, .3);
         background-color: #fff;
-    }
-
-    a:hover {
-        background-color: rgba(240, 240, 240, .9);
     }
 
     #check-menu:checked ~ .main-menu {
@@ -189,8 +202,14 @@ a:hover {
 }
 
 /*Make an Images Responsive*/
-.icon{
+.icon-box{
     width: 32px;
+}
+.user-photo-box{
+    width: 45px;
+}
+.user-photo{
+    border-radius: 100%;
 }
 img {
     max-width: 100%;
